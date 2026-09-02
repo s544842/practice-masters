@@ -22,3 +22,5 @@ Jim Carrey is my favorite actor because of his impressive **facial control**. He
 - Arms of the Sea by Textures
 - Lefty by Title Fight
 
+# Favorite city
+[Green Mountain Falls, CO](./MyCity.md "Suspicious hyperlink")
