@@ -5,7 +5,7 @@ Jim Carrey is my favorite actor because of his impressive **facial control**. He
 
 ---
 
-# Media
+# Favorites
 ## Films
 
 1. The Matrix
@@ -22,5 +22,16 @@ Jim Carrey is my favorite actor because of his impressive **facial control**. He
 - Arms of the Sea by Textures
 - Lefty by Title Fight
 
-# Favorite city
+## City
 [Green Mountain Falls, CO](./MyCity.md "Suspicious hyperlink")
+
+---
+
+# Bucketlist
+## Cities I'd like to visit
+| City | Why I'd like to visit | Distance from favorite city | Cost to travel from favorite city |
+| --- | --- | --- | --- | --- |
+| Chicago  | Deep-Dish Pizza  | 1,088mi  | $217 (in gas)  |
+| New York City | To visit friends and explore | 1,794mi | $358 (in gas) |
+| Seattle| To visit friends and explore | 1,393mi | $$278 (in gas) |
+| Barcelona | To explore and see architechture | 5,248 | $550 (plane ticket) |
