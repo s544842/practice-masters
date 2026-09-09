@@ -34,4 +34,4 @@ Jim Carrey is my favorite actor because of his impressive **facial control**. He
 | Chicago  | Deep-Dish Pizza  | 1,088mi  | $217 (in gas)  |
 | New York City | To visit friends and explore | 1,794mi | $358 (in gas) |
 | Seattle| To visit friends and explore | 1,393mi | $278 (in gas) |
-| Barcelona | To explore and see architechture | 5,248 | $550 (plane ticket) |
+| Barcelona | To explore and see architechture | 5,248mi | $550 (plane ticket) |
