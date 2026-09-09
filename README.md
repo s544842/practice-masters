@@ -35,3 +35,21 @@ Jim Carrey is my favorite actor because of his impressive **facial control**. He
 | New York City | To visit friends and explore | 1,794mi | $358 (in gas) |
 | Seattle| To visit friends and explore | 1,393mi | $278 (in gas) |
 | Barcelona | To explore and see architechture | 5,248mi | $550 (plane ticket) |
+
+---
+
+# Quotes
+## Jokes
+Name: Dr. Eloe
+
+Joke:
+
+> "It's like Microsoft wants to be Google but can't kill their products fast enough."
+
+Name: Steven Wright
+
+Joke:
+
+> "I bought a pen that can write underwater. It can write other words as well."
+
+---
