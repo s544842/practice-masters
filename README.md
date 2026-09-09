@@ -53,3 +53,35 @@ Joke:
 > "I bought a pen that can write underwater. It can write other words as well."
 
 ---
+
+# Code
+## Snippet 1
+
+Description:
+
+This code snippet is a Java class, intended to create an automatically-resizing list capable of storing objects of any type.
+
+```
+
+public class GenericList{
+    // class constant for default size
+    private static final int DEFAULT_CAP = 10;
+    
+    //instance variables
+    // iValues store the elements of the list and 
+    // may have extra capacity
+    private Object[] iValues;
+    private int iSize;
+    
+    /**
+     * Default add method. Add x to the end of this IntList.
+     * Size of the list goes up by 1.
+     * @param x The value to add to the end of this list.
+     */
+    public void add(Object x){
+        insert(iSize, x);
+    }
+
+```
+
+Source: [utexas csis](https://www.cs.utexas.edu/~scottm/cs307/javacode/codeSamples/GenericList.java)
